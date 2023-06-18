@@ -7,7 +7,7 @@
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Project Motivation<a name="motivation"></a>
-
+This project was initially developed as part of a coursework for Foundations of Data Science at The University of Edinburgh. We decided to take this project on, making use of further statistical methods and making our code more elegant. 
 
 ## File Descriptions <a name="files"></a>
 
